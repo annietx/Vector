@@ -19,10 +19,11 @@ This is a repo for all work in progress files for the Vector anthropomorphism mo
 
 ### Windows
 *TODO: test this with a windows machine just to make sure*
-1. Open Command Prompt (or your preferred emulator)
-2. Navigate to where `pickup.py` is located. *If you do not know how to navigate via the command line the easiest thing is to put the file in your "Documents" file and then run `cd documents` after opening Command Prompt*
-3. Type `python3 pickup.py` into your terminal and press enter
+1. Open Command Prompt (or your preferred emulator). 
+2. Navigate to where `pickup.py` is located. *If you do not know how to navigate via the command line the easiest thing is to put the file in your "Documents" file and then run `cd documents` after opening Command Prompt* (Or you may also choose 'pickup.py' and right click it on the folder menu, and choose 'copy address as text'. Then type 'cd ' followed by 'Ctrl+v' to paste the address, and press enter
+3. Type `py pickup.py` into your terminal and press enter
 4. The program should now be running
+5. If the program does not run due to admistrator restriction, start from step 1, and right click the 'cmd' file, choose ' Run as administrator' to open Command Prompt
 
 #### Interacting with the program
 * Vector will start by speaking, no matter what it says you should then pick it up off its charger
